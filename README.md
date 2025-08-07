@@ -1,7 +1,6 @@
 # CSCI 4141 Information Retrieval - Assignment 4
 
-Name: Oguntokun Ayomide
-Banner ID: B00900743
+
 Platform used: Google Collab
 
 # Overview of Assignment 4
